@@ -1,0 +1,25 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 20px #BDC3C7 solid;
+	max-width: 700px;
+	width: 80%;
+	margin: 50px auto 0 auto;
+	padding: 20px;
+	
+}
+
+h2 {
+	color: #2C3E50;
+}
+
+.FirstParagraph {
+	border-left: 5px #BDC3C7 solid;
+	padding: 5px;
+}
+
+.Date {
+	color: #3498DB;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
